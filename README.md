@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # dice-app
 # dice-app
+![Simulator Screen Shot - iPhone 12 - 2021-12-04 at 10 21 58](https://user-images.githubusercontent.com/92898115/146065822-f43389f5-5c8b-40ef-b6c5-58af53879d03.png)
