@@ -13,20 +13,20 @@ void main() {
           ),
           backgroundColor: Colors.red,
         ),
-        body: const DicePage(),
+        body: const MyApp(),
       ),
     ),
   );
 }
 
-class DicePage extends StatefulWidget {
-  const DicePage({Key? key}) : super(key: key);
+class MyApp extends StatefulWidget {
+  const MyApp({Key? key}) : super(key: key);
 
   @override
-  _DicePageState createState() => _DicePageState();
+  _MyAppState createState() => _MyAppState();
 }
 
-class _DicePageState extends State<DicePage> {
+class _MyAppState extends State<MyApp> {
   int leftDiceNumber = 1;
   int rightDiceNumber = 1;
   void diceChange() {
